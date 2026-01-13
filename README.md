@@ -34,7 +34,8 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">AntiPy</h3>
+<!-- Title -->
+<h3 align="center">Cobra</h3>
 
   <p align="center">
     Un linguaggio di programmazione per combattere python, perche troppo brutto.
